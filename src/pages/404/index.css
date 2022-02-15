@@ -1,0 +1,41 @@
+.error-main {
+  color: rgb(255, 96, 96);
+}
+
+.error-main span {
+  display: block;
+  text-align: center;
+}
+
+.error {
+  font-size: 7rem;
+  font-weight: 700;
+  margin: 180px auto 0 auto;
+}
+
+.error-tagline {
+  line-height: 150%;
+  font-weight: 500;
+}
+
+.error-main a {
+  display: block;
+  text-align: center;
+  margin-top: 130px;
+  color: rgb(255, 96, 96);
+}
+
+.error-main a:hover {
+  text-decoration: underline;
+}
+
+@media screen and (min-width: 768px) {
+  .error {
+    font-size: 14rem;
+  }
+
+  .error-tagline {
+    font-size: 1.7rem;
+    margin-top: 20px;
+  }
+}

@@ -1,0 +1,17 @@
+.main-content {
+  border-radius: 25px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.location-elt {
+  margin: 20px;
+}
+
+@media screen and (min-width: 768px) {
+  .main-content {
+    background: rgb(246, 246, 246);
+    padding: 50px;
+  }
+}
