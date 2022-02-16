@@ -17,7 +17,7 @@ const Home = ({ data }) => {
         {data.map((elt) => (
           <article key={elt.id} className="location-elt">
             <Thumb id={elt.id} title={elt.title} src={elt.cover} />
-          </article> 
+          </article>
         ))}
       </main>
     </div>

@@ -67,11 +67,16 @@
   .gallery .fa-chevron-right {
     right: 25px;
   }
-
 }
 
 @media screen and (max-width: 768px) {
   .gallery .counter {
     display: none;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .gallery .fas {
+    font-size: 1.5rem;
   }
 }
