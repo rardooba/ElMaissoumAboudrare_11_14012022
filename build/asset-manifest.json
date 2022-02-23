@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KasaByRardooba/static/css/main.031f23fb.css",
+    "main.js": "/KasaByRardooba/static/js/main.7e88066a.js",
+    "index.html": "/KasaByRardooba/index.html",
+    "main.031f23fb.css.map": "/KasaByRardooba/static/css/main.031f23fb.css.map",
+    "main.7e88066a.js.map": "/KasaByRardooba/static/js/main.7e88066a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.031f23fb.css",
+    "static/js/main.7e88066a.js"
+  ]
+}
